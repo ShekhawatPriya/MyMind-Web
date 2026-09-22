@@ -1,0 +1,29 @@
+[
+  {
+    "id": "a-world-worth-keeping",
+    "asset": "public/images/a-world-worth-keeping.webp",
+    "smallAsset": "public/images/a-world-worth-keeping-768.webp",
+    "tool": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. Create a premium editorial still-life illustration for Rillmark, a quiet personal visual memory library. Landscape 1536x1024. On warm ivory textured paper (#f7f6f0), an artfully arranged, airy collection of physical keepsakes: one large forest-green botanical fern print on cream paper, a small photographic print of a misty green hillside, a folded blank note, a sage linen notebook with a simple cream bookmark ribbon, a tiny brass paper clip. Hand-rendered watercolor and fine graphite detail with photographic paper textures and very soft natural shadows, refined independent design journal art direction. The objects form a loose diagonal rising from lower left to upper right with ample calm negative space and natural overlaps, no objects cut off, no repetitive grid. Deep pine green, parchment, muted olive, tiny warm brass accents. Sophisticated, tactile, minimal, no bright colors, no gradients, no interface, no logos, no lettering, no text, no watermark.",
+    "role": "Original conceptual artwork; not a native-app screenshot.",
+    "generated": "2026-09-22"
+  },
+  {
+    "id": "room-for-curiosity",
+    "asset": "public/images/room-for-curiosity.webp",
+    "smallAsset": "public/images/room-for-curiosity-768.webp",
+    "tool": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. Landscape 1536x1024 editorial watercolor and graphite illustration for Rillmark, a private personal inspiration library. An elegant open ivory-paper commonplace notebook with an intricate pressed fern specimen spanning one page and a small misty mountain photographic print slipped into the other. Two blank bookmark slips in deep forest green and olive, delicate paper edges and restrained natural shadows. Background seamless warm ivory (#f7f6f0) with very subtle paper grain. Composition asymmetrical, notebook centered with generous breathing room, viewed slightly from above. Premium literary magazine, tasteful tactile realism mixed with pencil sketch. Green, cream, pale brass only. No writing, text, lettering, logos, watermark, UI, fake symbols, border, or decorative sparkles.",
+    "role": "Original conceptual artwork; not a native-app screenshot.",
+    "generated": "2026-09-22"
+  },
+  {
+    "id": "a-slower-horizon",
+    "asset": "public/images/a-slower-horizon.webp",
+    "smallAsset": "public/images/a-slower-horizon-768.webp",
+    "tool": "Built-in image_gen",
+    "prompt": "Use case: photorealistic-natural. Landscape 1536x1024 fine-art editorial landscape photograph used as a sample saved memory for Rillmark personal library. Rolling green hills and a tiny winding path disappearing into atmospheric early morning mist, a single graceful broad-canopied tree on the right ridge, subdued natural forest and olive greens, soft overcast sky in warm ivory, quiet analog film texture. Restrained, evocative, timeless, natural detail, no oversaturation, no buildings, people, text, logos, borders, or watermark.",
+    "role": "Original conceptual artwork; not a native-app screenshot.",
+    "generated": "2026-09-22"
+  }
+]
